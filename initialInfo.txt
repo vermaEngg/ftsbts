@@ -1,1 +1,17 @@
 FOR THE STUDENTS, BY THE VERMA ENGGS
+
+
+This will contains the features like : 
+
+1 Notes
+2 Posts (anonymous + named)
+3 Campus updates like - exams, fests, current affails etc
+4 Exam books, syllabus, sample papers etc
+5 Live 4th year projects ------------------Big feature for Monitization
+6 Car pooling
+7 Buy\ Sell - anything like bikes, phones, furniture after 4th year etc.
+8 Ideas
+9 Personal Ideas / Blogging for solution giving and taking
+10 QnA - for any kind
+11 Confession Page
+12 Chat box, Video stream, voice messages - These will be the last features of the site
